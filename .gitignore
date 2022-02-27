@@ -4,6 +4,9 @@
 .firebase.config.js
 firebase.config.js
 
+//.env
+.env
+
 
 # dependencies
 /node_modules
